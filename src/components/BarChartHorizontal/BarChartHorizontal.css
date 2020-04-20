@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  /* font-size: .5em; */
+}
+
+svg {
+  /* font-size: 1em; */
+}
+
+rect {
+  fill: steelblue;
+}
